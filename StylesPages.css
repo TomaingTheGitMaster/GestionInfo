@@ -1,0 +1,101 @@
+
+body.Menu1{
+	background: url("https://cdn-s-www.lalsace.fr/images/0064A1D4-00DB-400F-99D7-A4B145A55767/NW_raw/le-photographe-raconte-qu-il-a-donne-a-manger-des-crevettes-a-ce-raton-laveur-sur-une-plage-de-floride-et-que-le-petit-animal-l-a-remercie-avec-ce-geste-de-la-patte-photo-miroslav-srb-comedy-wildlife-photography-awards-2022-1666267828.jpg") no-repeat;
+	background-size: 100%;
+}
+
+body.Menu2{
+	background-color: grey;
+}
+
+
+h1.title{
+	color: darkblue;
+	font-size: 70px;
+}
+
+h2.title{
+	color: darkblue;
+	font-size: 70px;
+}
+
+h1.Video-title{
+	color: black;
+	font-size: 25px;
+}
+
+p.Textlogin1{
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+p.Logvalue1{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+p.description{
+	padding-inline-start: 0px;
+	color: black;
+	font-size: 30px;
+}
+
+p.Ok{
+	color: darkgreen;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+p.error{
+	color: orangered;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+input.Textinput{
+	padding: 10px;
+	font-size: 15px;
+}
+
+input.Buttonconnection{
+	padding: 3px;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+}
+
+
+nav.menu-nav ul li.button{
+	background-color: whitesmoke;
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.button a{
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+nav.menu-return ul.Returnmainmenu li.button{
+	background-color: whitesmoke;
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+nav.menu-return ul.Returnmainmenu li.button a{
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+ul.Returnmainmenu{
+	padding-inline: 25px;
+	font-size: 30px;
+}
